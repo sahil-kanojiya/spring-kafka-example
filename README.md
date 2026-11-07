@@ -1,5 +1,14 @@
-## Spring kafka producer
+# Spring Kafka Examples
 
-To start follow mentioned steps
-1) ```docker compose up -d```
-2) 
+Event-driven messaging and streaming pipeline examples using Spring Boot and Apache Kafka.
+
+## Features
+- Kafka producer and consumer configurations.
+- JSON payload serialization and deserialization.
+- Error handling, consumer group management, and retry topics.
+
+## Tech Stack
+- Java 21 LTS
+- Spring Boot, Spring Kafka
+- Apache Kafka
+- Maven Wrapper
